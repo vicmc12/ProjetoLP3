@@ -1,0 +1,24 @@
+create table userMovie(
+    userMovie_ID BIGINT not null primary key
+                        generated always as identity 
+                        (start with 1, increment by 1),
+    User_ID BIGINT not null,
+    Movie_ID BIGINT not null,
+);
+
+create table userSerie(
+    userSerie_ID BIGINT not null primary key
+                        generated always as identity 
+                        (start with 1, increment by 1),
+    User_ID BIGINT not null,
+    Serie_ID BIGINT not null,
+);
+
+create table Profile(
+Profile_ID BIGINT not null primary key
+                        generated always as identity 
+                        (start with 1, increment by 1),
+    User_ID BIGINT not null,
+    Movie_ID BIGINT not null,
+    Serie_ID BIGINT not null,
+);

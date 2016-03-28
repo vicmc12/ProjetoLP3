@@ -1,7 +1,7 @@
-Mon Mar 28 10:06:31 BRT 2016 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+Mon Mar 28 10:22:52 BRT 2016 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
 ----------------------------------------------------------------
-Mon Mar 28 10:06:32 BRT 2016:
- Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0153-bd55-3663-00003c4b38cb
+Mon Mar 28 10:22:52 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0153-bd64-2e45-00003c4b38cb
 no diretório de banco de dados C:\Temp\ProjetoLP3\db\Projeto 
 
 java.vendor=Oracle Corporation
@@ -13,9 +13,36 @@ os.version=6.1
 derby.system.home=C:\Temp\ProjetoLP3\db
 Carregador de classe do banco de dados iniciado - derby.database.classpath=''
 ----------------------------------------------------------------
-Mon Mar 28 10:06:47 BRT 2016:
-Encerrando a instância a816c00e-0153-bd55-3663-00003c4b38cb
-Mon Mar 28 10:06:47 BRT 2016 Thread[DRDAConnThread_3,5,main] (DATABASE = Projeto), (DRDAID = {2}), Banco de dados 'Projeto' fechado.
+Mon Mar 28 10:23:08 BRT 2016:
+Encerrando a instância a816c00e-0153-bd64-2e45-00003c4b38cb
+Mon Mar 28 10:23:08 BRT 2016 Thread[DRDAConnThread_3,5,main] (DATABASE = Projeto), (DRDAID = {2}), Banco de dados 'Projeto' fechado.
 ----------------------------------------------------------------
-Mon Mar 28 10:12:53 BRT 2016: Shutting down Derby engine
+Mon Mar 28 10:23:21 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância 20e1c02b-0153-bd64-2e45-00003c4b38cb
+no diretório de banco de dados C:\Temp\ProjetoLP3\db\Projeto 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=C:\Temp\glassfish4\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\ProjetoLP3\db
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
 ----------------------------------------------------------------
+Mon Mar 28 10:23:36 BRT 2016:
+Encerrando a instância 20e1c02b-0153-bd64-2e45-00003c4b38cb
+Mon Mar 28 10:23:36 BRT 2016 Thread[DRDAConnThread_3,5,main] (DATABASE = Projeto), (DRDAID = {4}), Banco de dados 'Projeto' fechado.
+----------------------------------------------------------------
+Mon Mar 28 10:23:43 BRT 2016:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância f33d40c7-0153-bd64-2e45-00003c4b38cb
+no diretório de banco de dados C:\Temp\ProjetoLP3\db\Projeto 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=C:\Temp\glassfish4\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\ProjetoLP3\db
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
